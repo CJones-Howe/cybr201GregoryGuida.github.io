@@ -17,11 +17,11 @@ body {
 	margin: 0 45px;
 }
 @media (max-width: 760px) {
-.nav-link
+.nav-links
 	flex-direcrtion: column;
 	position: absolute;
 }
-.nav-link li {
+.nav-links li {
 	text-align: center;
 }
 
