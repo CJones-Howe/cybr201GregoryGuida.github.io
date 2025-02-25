@@ -14,6 +14,13 @@ body {
 }
 
 .nav-links li {
-	margin: 0 15px;
+	margin: 0 45px;
+}
+@media (max-width: 760px) {
+.nav-link
+	flex-direcrtion: column;
+	position: absolute;
+.nav-link li (
+	text-align: center;
 }
 
