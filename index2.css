@@ -4,6 +4,7 @@ body {
 
 .topnav {
 	align-items: center;
+	padding: 15px;
 	
 }
 
@@ -11,3 +12,8 @@ body {
 	list-style: none;
 	display: flex;
 }
+
+.nav-links li {
+	margin: 0 15px;
+}
+
