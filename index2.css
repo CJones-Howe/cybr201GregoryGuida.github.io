@@ -20,7 +20,10 @@ body {
 .nav-link
 	flex-direcrtion: column;
 	position: absolute;
-.nav-link li (
+}
+.nav-link li {
 	text-align: center;
 }
+
+
 
