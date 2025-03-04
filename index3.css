@@ -62,6 +62,6 @@ header {
   flex-direction: column;
            }
 .content {
-   flex-direction: column; 
+   flex-direction: column;
   }
 }
