@@ -31,6 +31,28 @@ header {
     font-size: 30px;
     text-align: center;
 }
+
+.nav-links a:hover {
+  color: yellow;
+  font-size: 60px;
+   }
+
+.nav-links a:visited {
+color: white;
+}
+
+.content {
+  display: flex;
+  padding: 20px;
+  background color: blue;
+}
+
+.box {
+  background-color: pink;
+  padding: 30px;
+  width: 200px;
+  height: 500px;
+}
  
 
 
