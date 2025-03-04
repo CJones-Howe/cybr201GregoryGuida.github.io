@@ -44,7 +44,7 @@ color: white;
 .content {
   display: flex;
   padding: 20px;
-  background color: blue;
+  background-color: blue;
 }
 
 .box {
