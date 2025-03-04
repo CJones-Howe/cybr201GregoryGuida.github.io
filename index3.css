@@ -15,8 +15,7 @@
        background-color: darkgray;
        color: white;
        padding: 15px;
-      
-      
+    
  }
  
  .nav-links {
@@ -73,11 +72,11 @@
       text-align: center;
 }
 
-@media (max-width; 760px) {
+@media (max-width: 760px) {
 .nav-links {
-      flex-direction:column;
+      flex-direction: column;
 }
 .content {
-      flex-direction:column;
+      flex-direction: column;
 }
 }
